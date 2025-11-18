@@ -1,0 +1,2 @@
+/* simple CSS that Streamlit can inject via st.markdown if desired */
+body { font-family: Inter, Arial, sans-serif; }

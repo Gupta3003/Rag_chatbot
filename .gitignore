@@ -1,0 +1,5 @@
+# Ignore Virtual Enviroment Variable
+venv_rag
+
+# Ignore Enviroment Variable
+.env
